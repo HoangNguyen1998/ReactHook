@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "macbook",
+      "price": 1500,
+      "status": true,
+      "id": "gxuw9Dz"
+    },
+    {
+      "name": "xps",
+      "price": 1600,
+      "status": true,
+      "id": "Lso2pGy"
+    },
+    {
+      "name": "iphone",
+      "price": 1000,
+      "status": false,
+      "id": "3u4n02d"
+    }
+  ]
+}
